@@ -6,18 +6,15 @@
   <img src="https://profile-counter.glitch.me/deepansh946/count.svg" />
 </p>
 
-
-<p align="left"> <a href="https://twitter.com/deepansh946" target="blank"><img src="https://img.shields.io/twitter/follow/deepansh946?logo=twitter&style=for-the-badge" alt="deepansh946" /></a> </p>
-
 - 🔭 I’m currently working in [X Team](https://x-team.com/)
 
-- 📝 I regularly write articles on [https://dev.to/deepansh946](https://dev.to/deepansh946)
+- 📝 I regularly write articles on [dev.to](https://dev.to/deepansh946)
 
 - 💬 Ask me about **React, Javascript, Node, Product Planning**
 
 - 📫 How to reach me **deepansh940@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b8YSOA0vx_ZMZ0ijV0jo7soD7Eui7qR8/view?usp=sharing](https://drive.google.com/file/d/1b8YSOA0vx_ZMZ0ijV0jo7soD7Eui7qR8/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1b8YSOA0vx_ZMZ0ijV0jo7soD7Eui7qR8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
