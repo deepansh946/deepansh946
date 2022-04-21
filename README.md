@@ -17,8 +17,6 @@
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1b8YSOA0vx_ZMZ0ijV0jo7soD7Eui7qR8/view?usp=sharing)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepansh946&show_icons=true&locale=en&layout=compact" alt="deepansh946" /></p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
