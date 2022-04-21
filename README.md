@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working in [X Team](https://x-team.com/)
 
-- 📝 I regularly write articles on [dev.to](https://dev.to/deepansh946)
+- 📝 I sometimes write articles on [dev.to](https://dev.to/deepansh946)
 
-- 💬 Ask me about **React, Javascript, Node, Product Planning**
+- 💬 Ask me about **React, Javascript, Node, Product Planning, Problem Solving**
 
 - 📫 How to reach me **deepansh940@gmail.com**
 
