@@ -14,4 +14,4 @@
 
 - 📫 How to reach me **deepansh940@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1b8YSOA0vx_ZMZ0ijV0jo7soD7Eui7qR8/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1mKsywAVv5mOR85SyGhnb-OmSQyKUVsNf/view)
