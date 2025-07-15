@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepansh Bhargava</h1>
-<h3 align="center">A full stack blockchain developer from India</h3>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/deepansh946/count.svg" />
-</p>
+<h3 align="center">A full stack developer from India</h3>
 
 - 📝 I sometimes write articles on [dev.to](https://dev.to/deepansh946)
 
